@@ -1,0 +1,2 @@
+<div class="row">{{$sp_khac->link())}}</div> phân trang sản phẩm khác trong mục loại sản phẩm
+<p class="pull-left">tim thay {{count($new_product)}} sp</p>
